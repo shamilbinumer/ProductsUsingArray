@@ -4,6 +4,17 @@
             text-align: center ;
         }
     }
+    .back{
+        padding-left: 2%;
+        padding-top: 20px;
+    }
+    .back-btn{
+        background-color: rgb(19, 53, 13);
+        padding: 7px 20px;
+        text-decoration: none;
+        color: white;
+        border-radius: 6px;
+    }
     .prodDetails{
         display: flex;
         width: 70%;
